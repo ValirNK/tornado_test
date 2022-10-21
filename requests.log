@@ -1,0 +1,6 @@
+2022-10-21 23:01:09,037 | INFO | User with login operator requested /devices/29, method: POST
+2022-10-21 23:01:09,037 | INFO | 200 POST /devices/29 (127.0.0.1) 0.83ms
+2022-10-21 23:01:48,118 | INFO | /home/vasilisk/PycharmProjects/tornado-proj/serve.py modified; restarting server
+2022-10-21 23:01:48,274 | INFO | Server listening port: 3001
+2022-10-21 23:02:16,776 | INFO | /home/vasilisk/PycharmProjects/tornado-proj/serve.py modified; restarting server
+2022-10-21 23:02:16,980 | INFO | Server listening port: 3001
